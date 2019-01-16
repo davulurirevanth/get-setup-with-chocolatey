@@ -91,3 +91,5 @@ Alternatively, each tool can be installed in the traditional manner. Just go to 
 Configure Git distributed version control system
 
 - See [Git Started With Windows](https://github.com/denisecase/git-started-windows)
+
+![image](https://github.com/davulurirevanth/get-setup-with-chocolatey/blob/master/New_logo_of_Digital_Trends.jpg)
