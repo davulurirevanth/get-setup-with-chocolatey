@@ -84,6 +84,7 @@ Alternatively, each tool can be installed in the traditional manner. Just go to 
 - package manager
 - upgrade (get the latest version)
 - Windows (operating system)
+- case
 
 ## Next Steps
 
